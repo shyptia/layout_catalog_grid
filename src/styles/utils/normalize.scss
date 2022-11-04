@@ -2,8 +2,16 @@ html {
   font-family: Roboto, sans-serif;
 }
 
-body {
+body,
+h2,
+p,
+a,
+ul {
   margin: 0;
+}
+
+ul {
+  list-style: none;
 }
 
 * {
